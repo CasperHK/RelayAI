@@ -1,4 +1,4 @@
-# RelayAI
+# Relay AI Hub
 
 A lightning-fast, privacy-first local AI gateway and interop hub built with **Go**, **Wails**, and **Ollama**. RelayAI bridges the gap between fragmented AI models, local inference engines (such as LM Studio and Ollama), and third-party applications, providing a unified standard protocol for multi-dimensional AI traffic routing, zero-config fallbacks, and multi-model management—keeping all local data entirely on your machine.
 
